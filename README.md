@@ -1,5 +1,5 @@
 # CG-HW3
-Codes of homeworkS for Intro to Computer Graphics course.
+Codes of homeworks for Intro to Computer Graphics course.
 
 written by: https://github.com/nerdingitout
 
